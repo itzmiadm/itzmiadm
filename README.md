@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I'm a Computer Engineer and a software developer.  <br><br>I enjoy building projects, exploring new technologies, and improving my skills in both front-end and back-end development.  <br><br>🌍 Currently based in Iran.</p>
+<p align="center">I'm a Computer Engineer  <br><br>I enjoy building projects, exploring new technologies, and improving my skills in both front-end and back-end development.  <br><br>🌍 Currently based in Iran.</p>
 
 ###
 
